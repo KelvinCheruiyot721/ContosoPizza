@@ -3,6 +3,7 @@ using ContosoPizza.Services;
 
 using Microsoft.EntityFrameworkCore;
 
+//app creation
 var builder = WebApplication.CreateBuilder(args);
 
 // Add services to the container.
